@@ -1,0 +1,34 @@
+name: Frits.tech - Blog
+description: >
+    Build something awesome
+about: >
+    Hi, Welcome to my blog <br> <br> I'm Frits, a 19 year old web developer from the Netherlands who is always interested to learn the latest technologies. <br> I also like to write blog posts and small tutorials to make your life a little easier <br><br> If you want to get in touch feel free to reach out to me on <a href="https://twitter.com/frits374" target="_blank">Twitter</a> or e-mail me at <a href="mailto:contact@frits.tech" target="_blank">contact@frits.tech</a>
+
+master_repo: false
+url: "https://frits.tech/blog"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist']
+
+paginate: 10
+
+logo:             logo.png
+disqus_shortname:
+
+owner:
+  name:           whitepaper
+  avatar:         ""
+  email:          "contact@frits.tech"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: frits374
+  github: fritsvt
+  stackexchange:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-99083652-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
