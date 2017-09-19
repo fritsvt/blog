@@ -11,7 +11,7 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist']
 
-paginate: 5
+paginate: 10
 
 logo:             logo.png
 disqus_shortname:
